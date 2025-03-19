@@ -1,9 +1,9 @@
 <nav>
     <h1>Notes</h1>
     <div>
-        <a href="/notes-app/">Home</a>
-        <a href="/notes-app/notes">Notes</a>
-        <a href="/notes-app/about">About</a>
-        <a href="/notes-app/contact">Contact</a>
+        <a href="/">Home</a>
+        <a href="/notes">Notes</a>
+        <a href="/about">About</a>
+        <a href="/contact">Contact</a>
     </div>
 </nav>
