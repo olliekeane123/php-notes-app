@@ -1,5 +1,5 @@
-<?php require('views/partials/head.php') ?>
-<?php require('views/partials/nav.php') ?>
+<?php view('partials/head.php') ?>
+<?php view('partials/nav.php') ?>
 
 <main>
     <h1><?= $heading ?></h1>
@@ -21,4 +21,4 @@
     </form>
 </main>
 
-<?php require('views/partials/footer.php') ?>
+<?php view('partials/footer.php') ?>
